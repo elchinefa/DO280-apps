@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "restify": "8.4.0",
+    "restify": "9.0.0",
 
     "mysql2": "2.0.0"
   }
