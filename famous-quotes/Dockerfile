@@ -1,4 +1,4 @@
-FROM golang:1.19.7
+FROM golang:1.21.8
 LABEL maintainer="ichavero@chavero.com.mx"
 
 ENV QUOTES_VERSION=2.1 \
